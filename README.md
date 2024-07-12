@@ -1,3 +1,4 @@
 # Ruchita-repository-
 This is my first repository 
-author - Ruchita Deshmukh 
+<br>
+Author - Ruchita Deshmukh 
